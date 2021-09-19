@@ -1,6 +1,6 @@
 body {
 
-	background-image: url("../images/subtle.jpg");
+
 	background-color: Black;
 	color: #f4f4f4;
 }
@@ -12,7 +12,7 @@ body {
 	 h1 {
 		  font-family:Courier;
 			font-size: 60px;
-			color: lightgreen;
+			color: aquamarine;
 			overflow: auto;
 			max-width: 1700px;
 			margin: 0 auto;
