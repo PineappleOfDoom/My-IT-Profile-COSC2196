@@ -1,0 +1,53 @@
+body {
+
+	background-image: url("../images/subtle.jpg");
+	background-color: Black;
+	color: #f4f4f4;
+}
+
+	a {
+     color: lightgreen;
+  }
+
+	 h1 {
+		  font-family:Courier;
+			font-size: 60px;
+			color: lightgreen;
+			overflow: auto;
+			max-width: 1700px;
+			margin: 0 auto;
+			float: none;
+
+		}
+
+		h2 {
+			 font-family:Courier;
+			 color: lightgreen;
+			 max-width: 1500px;
+       margin: 0 auto;
+       float: none;
+		 }
+
+		p {
+       font-family:Courier;
+			 font-size: 50px;
+			 text-align: center;
+			 max-width: 1800px;
+       margin: 0 auto;
+       float: none;
+		}
+
+		li {
+			 font-family:Courier;
+			 font-size: 50px;
+			 color: aquamarine;
+			 text-align: center;
+			 max-width: 2000px;
+			margin: 0 auto;
+			float: none;
+		 }
+		 text-align:center
+
+
+}
+}
